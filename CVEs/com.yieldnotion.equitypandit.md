@@ -37,7 +37,7 @@ adb connect x.x.x.x
 ```
 - Step 2: From Android machine, open EquityPandit, click forgot password function for acccount "abc@lcedom.com" and then click submit
 - Step 3: From Santoku, execute capture.py
-- Actual: Password of "abc@lcedom.com" will be show in terminal as "12345"
+- Actual: Password of "abc@lcedom.com" will be show in terminal as "123456"
 
 Demo:
 [![PoC](https://github.com/ManhNho/Practical-Android-Penetration-Testing/blob/master/Images/Equitypandit%20PoC.JPG)](https://github.com/ManhNho/Practical-Android-Penetration-Testing/blob/master/Images/Equitypandit%20PoC.wmv)
